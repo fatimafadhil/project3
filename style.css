@@ -1,0 +1,30 @@
+
+body{
+    background-color: #c1e0f2;
+    font-family: ar_ari ;
+    
+}
+
+
+
+article{    
+    margin: auto;
+    width: 80%;    
+    border-radius: 4px;
+    
+}
+
+table{
+    background-color: rgb(211, 216, 221);
+    width: 60%;
+    margin:auto;
+    text-align: center;font-size:36;
+}
+td{
+    width: 33%;
+}
+
+th{
+    width: 33%;
+
+}
